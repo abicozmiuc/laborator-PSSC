@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vpJLrVnTygFlNZ+3txYdqtqKxRLbIjRspLhHdTE+Z511tyk2Jk/VM0lXd2iUvhSF2Nd4S/k7x5qeAOiZ4vDoFg==",
+  "success": true,
+  "projectFilePath": "/Users/abi/repository/lab1pssc/microsoft.botsay.csproj",
+  "expectedPackageFiles": [
+    "/Users/abi/.nuget/packages/microsoft.netcore.app.host.osx-x64/5.0.17/microsoft.netcore.app.host.osx-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
